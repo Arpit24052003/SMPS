@@ -1,1 +1,4 @@
 # SMPS
+Power Supply Unit (PSU) is a vital part in any electronic product design. Most household electronic products like Mobile Chargers, Bluetooth Speakers, Power Banks, Smart Watches etc requires a Power Supply circuit that could convert the AC mains supply to 5V DC to operate them. In this project we will build a similar AC to DC power supply circuit with 10W power rating. That is our circuit will convert the 220V AC mains to 5V and provide a maximum output current upto 2A. This power rating should be enough to power most electronic products running on 5V. Also 5V 2A SMPS circuit is quite popular in electronics since there are lots of microcontrollers which operates on 5V.
+
+The idea of the project is to keep the build as simple as possible, hence we will design the complete circuit over a dotted board (perf board) and will also build our own transformer so that anyone could replicate this design or build similar ones. Excited Right! So lets get started.
